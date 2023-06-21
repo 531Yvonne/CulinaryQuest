@@ -1,0 +1,26 @@
+/Users/yvesyang/.stack/programs/aarch64-osx/ghc-9.2.5/lib/ghc-9.2.5/lib/aarch64-osx-ghc-9.2.5/rts-1.0.2/include/ghcversion.h:
+  hash: 0b01480d9e386cfc01bf5430e953ac8a8bb8de1a8e65ea4d8e19bce3c3718005
+? /Users/yvesyang/Documents/School/Personal/Code/PersonalProjects/CulinaryQuest/.stack-work/dist/aarch64-osx/Cabal-3.6.3.0/build/autogen/Paths_culinary_quest.hs
+: hash: 33bcf422301c1a22703d2af543e15df41340535327e4c690e1361fa7c2ea484b
+? /Users/yvesyang/Documents/School/Personal/Code/PersonalProjects/CulinaryQuest/.stack-work/dist/aarch64-osx/Cabal-3.6.3.0/build/autogen/cabal_macros.h
+: hash: d09af7375895a8ec00cb77867cd234502b73a958d948583b2b8d3a179301cd39
+/Users/yvesyang/Documents/School/Personal/Code/PersonalProjects/CulinaryQuest/README.md:
+  hash: 8077770b735e0740ede24145b27b1c849c91a7f05a90a21d282edb92d9106260
+/Users/yvesyang/Documents/School/Personal/Code/PersonalProjects/CulinaryQuest/culinary-quest.cabal:
+  hash: 477dcea8c3c78e52b75fb3209fdef2769a0300a190b0e5c2ff439273e5347cc2
+/Users/yvesyang/Documents/School/Personal/Code/PersonalProjects/CulinaryQuest/package.yaml:
+  hash: 339ca7cdb61d90add98a62c5cfec979f7a1884b85dd051e270103fde0c5b49ea
+/Users/yvesyang/Documents/School/Personal/Code/PersonalProjects/CulinaryQuest/src/Command.hs:
+  hash: 2ddca3968fdb1e160d707b1d9acc10bdb724441a13731e263717840f226793fb
+/Users/yvesyang/Documents/School/Personal/Code/PersonalProjects/CulinaryQuest/src/Direction.hs:
+  hash: 0a5a086730e60c827204ba4b8a5e412dced4c7430775684d8d37f788bf4d9d25
+/Users/yvesyang/Documents/School/Personal/Code/PersonalProjects/CulinaryQuest/src/GameIO.hs:
+  hash: b00f0530e0db738dbf223bb71b825314b3f25da39d4f7fc903baab62f50d3caf
+/Users/yvesyang/Documents/School/Personal/Code/PersonalProjects/CulinaryQuest/src/GameState.hs:
+  hash: cbd9d3b715b69c62fbf2ad609280df45a14e43a96d43b72ec5079aefaa5b927d
+/Users/yvesyang/Documents/School/Personal/Code/PersonalProjects/CulinaryQuest/src/Item.hs:
+  hash: e2fac3847728c8de319a653280472ce7874e5eae06dc15720f148edcd40e8e5d
+/Users/yvesyang/Documents/School/Personal/Code/PersonalProjects/CulinaryQuest/src/Player.hs:
+  hash: d8ed276832dd2cba4ccfd215ea80269455a902ee23a98db8118023266c9e7488
+/Users/yvesyang/Documents/School/Personal/Code/PersonalProjects/CulinaryQuest/src/Room.hs:
+  hash: 41ec58b40de5461a4c7e53db5602fe0a175966273dc5a10e1aa7bff43f494ced

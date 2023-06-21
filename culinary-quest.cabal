@@ -1,0 +1,68 @@
+cabal-version: 1.12
+
+-- This file has been generated from package.yaml by hpack version 0.35.1.
+--
+-- see: https://github.com/sol/hpack
+
+name:           culinary-quest
+version:        0.1.0.0
+description:    culinary-quest
+build-type:     Simple
+extra-source-files:
+    README.md
+
+library
+  exposed-modules:
+      Command
+      Direction
+      GameIO
+      GameState
+      Item
+      Player
+      Room
+  other-modules:
+      Paths_culinary_quest
+  hs-source-dirs:
+      src
+  ghc-options: -Werror -Wall -Wcompat -Wincomplete-record-updates -Wincomplete-uni-patterns
+  build-depends:
+      base >=4.7 && <5
+    , containers
+    , mtl
+    , parsec
+    , random
+  default-language: GHC2021
+
+executable culinary-quest-exe
+  main-is: Main.hs
+  hs-source-dirs:
+      app
+  ghc-options: -Werror -Wall -Wcompat -Wincomplete-record-updates -Wincomplete-uni-patterns -threaded -rtsopts -with-rtsopts=-N
+  build-depends:
+      base >=4.7 && <5
+    , containers
+    , culinary-quest
+    , mtl
+    , parsec
+    , random
+  default-language: GHC2021
+
+test-suite culinary-quest-test
+  type: exitcode-stdio-1.0
+  main-is: Spec.hs
+  other-modules:
+      Paths_culinary_quest
+  hs-source-dirs:
+      test
+  ghc-options: -Werror -Wall -Wcompat -Wincomplete-record-updates -Wincomplete-uni-patterns -threaded -rtsopts -with-rtsopts=-N
+  build-depends:
+      QuickCheck
+    , base >=4.7 && <5
+    , containers
+    , culinary-quest
+    , hspec
+    , hspec-discover
+    , mtl
+    , parsec
+    , random
+  default-language: GHC2021
