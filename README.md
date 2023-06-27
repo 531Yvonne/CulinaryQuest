@@ -1,6 +1,10 @@
 # This is a Command Line Based Game Developed in Haskell  
 You're in a Culinary Quest! Bring the correct item into Dining Room!
 
+## Video Demo
+[![Watch the video](https://img.youtube.com/vi/Qg27QflLd3U/0.jpg)](https://youtu.be/Qg27QflLd3U)
+
+
 ## Code Introduction
 The Game Development utilizes comprehensive functional programming notions and skills such as custom data type, pattern matching, Do notation and IO Functions, Functors and Applicatives, Monads and States, Parser.  
 
